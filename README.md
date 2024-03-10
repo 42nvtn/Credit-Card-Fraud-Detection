@@ -5,7 +5,7 @@ This project foucuses on handling an unbalanced dataset and detecting credit car
 - Support vector machine
 - Random forest
 
-These models are fitted to different datasets after using RobustScalet, UnderSampling, OverSampling and SMOTE.
+These models are trained on different datasets after using RobustScalet, UnderSampling, OverSampling and SMOTE.
 
 **Datasets**
 Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
