@@ -1,4 +1,4 @@
-This project foucuses on hanling unbalanced dataset an detecting credit card fraud using these Machine Learning algorithms:
+This project foucuses on handling unbalanced dataset an detecting credit card fraud using these Machine Learning algorithms:
 - Logistic Regression
 - Gaussian Naive Bayess
 - Decision tree
